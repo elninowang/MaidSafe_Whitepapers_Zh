@@ -40,7 +40,7 @@ SAFE是MaidSafe.net和持续不断增加的项目开发人员8年努力的结晶
 
 The inclusion of a [crypto currency](https://www.google.com/patents/US20100064354) is not new to the maidsafe core design. It is a logical step included in the initial design many years ago (2006). Importantly, **this proposal creates no founders pool or shares** but, incentivises funders, developers, users and satisfies existing investors in MaidSafe. This allows MaidSafe to clearly show this network truly belongs to us all and in perpetuity. It is a hugely important step to ensure the network is widely used and worked on by many hundreds of developers who can see the potential for a fully secured, unowned and decentralised Internet. The proposed crowd sale will seed the network, expand the developer base worldwide and push the whole proposition to the wider community in a manner that is extremely clear and logical.
 
-包含 [加密货币](https://www.google.com/patents/US20100064354) 对maidsafe核心设计来说并不陌生。 这是多年前（2006年）最初设计中的一个合乎逻辑的步骤。 重要的是，**这个提案并没有创建创建者池或股票**，但是激励了资助者，开发者，用户并满足了MaidSafe中的现有投资者。 这使得MaidSafe能够清楚地显示这个网络真正属于我们，并且永久属于我们。 这是确保网络得到数百名开发人员广泛使用和开发的非常重要的一步，这些开发人员可以看到完全安全，无主权和分散的互联网的潜力。 拟议的人群出售将使网络成熟，扩大全球开发者基础，并以非常明确和合乎逻辑的方式将整个主题推广到更广泛的社区。
+包含 [加密货币](https://www.google.com/patents/US20100064354) 对maidsafe核心设计来说并不陌生。 这是多年前（2006年）最初设计中的一个合乎逻辑的步骤。 重要的是，**这个提案并没有创建 无创建者池或股票**，但是激励了资助者，开发者，用户并满足了MaidSafe中的现有投资者。 这使得MaidSafe能够清楚地显示这个网络真正属于我们，并且永久属于我们。 这是确保网络得到数百名开发人员广泛使用和开发的非常重要的一步，这些开发人员可以看到完全安全，无主权和分散的互联网的潜力。 拟议的人群出售将使网络成熟，扩大全球开发者基础，并以非常明确和合乎逻辑的方式将整个主题推广到更广泛的社区。
 
 ###### MaidSafe简史
 
@@ -83,7 +83,7 @@ For technical implementation details see the Appendix.
 
 有关技术实施细节，请参阅附录。
 
-History has demonstrated that having the most cutting-edge technology does not in itself guarantee wide scale use.  To ensure the SAFE network is fully and efficiently utilised, a token-based scheme is proposed where all stakeholder groups have the ability to earn these tokens (safecoins) in a manner that is both fair and equitable.
+History has demonstrated that having the most cutting-edge technology does not in itself guarantee wide scale use.  To ensure the SAFE network is fully and efficiently utilised, a Token-based scheme is proposed where all stakeholder groups have the ability to earn these Tokens (safecoins) in a manner that is both fair and equitable.
 
 历史证明，拥有最尖端的技术本身并不能保证广泛的使用。 为确保安全网络得到充分有效利用，提出了一种基于Token的方案，其中所有利益相关者群体都有能力以公平和公平的方式获得这些代币（Safecoin）。
 
@@ -156,7 +156,7 @@ MaidSafe的数据预测了随着时间的推移估计的采矿率，这个预测
 
 ##### Backers 支持者
  
-To allow distributed ownership of the network, MaidSafe will allocate 30% of the tokens on day 1.  The coins allocated are fungible, particularly in the form of resources as backers reach their required returns or simply trade the coins.  This allocation of safecoin will allow two separate entities to be rewarded:
+To allow distributed ownership of the network, MaidSafe will allocate 30% of the Tokens on day 1.  The coins allocated are fungible, particularly in the form of resources as backers reach their required returns or simply trade the coins.  This allocation of safecoin will allow two separate entities to be rewarded:
 
 为了允许分布式网络的所有权，MaidSafe将在第一天分配30％的代币。分配的代币是可替代的，特别是当资助者达到其要求的回报或简单地交易币时的资源形式。 Safecoin的这种分配将允许两个独立的实体得到奖励：
 
@@ -224,9 +224,9 @@ The size of the seeding network is estimated to be around 2,000 vaults, that bei
 
 播种网络的规模估计约为2000个保管库，预计第一个月的收入将在800万左右，总计38M左右。
 
-Third party developers will also be incentivised outside of the token scheme.  Choosing to develop their applications and businesses on the SAFE network will, when the network reaches critical mass, enable them to outperform all incumbents, while providing privacy and security to all their users.  The network code is free to use and there are no upfront charges for API keys or developer programmes.  Developers’ customer acquisition costs will be a fraction of the levels compared to traditional architecture due to the lack of infrastructure costs.
+Third party developers will also be incentivised outside of the Token scheme.  Choosing to develop their applications and businesses on the SAFE network will, when the network reaches critical mass, enable them to outperform all incumbents, while providing privacy and security to all their users.  The network code is free to use and there are no upfront charges for API keys or developer programmes.  Developers’ customer acquisition costs will be a fraction of the levels compared to traditional architecture due to the lack of infrastructure costs.
 
-第三方开发商也会在token计划之外获得激励。 选择在SAFE网络上开发他们的应用程序和业务时，当网络达到临界值时，使他们能够胜过所有在位者，同时为所有用户提供隐私和安全。 网络代码可以免费使用，API密钥或开发人员程序不需要预付费用。 由于缺乏基础设施成本，与传统架构相比，开发人员的客户购置成本仅为水平的一小部分。
+第三方开发商也会在Token计划之外获得激励。 选择在SAFE网络上开发他们的应用程序和业务时，当网络达到临界值时，使他们能够胜过所有在位者，同时为所有用户提供隐私和安全。 网络代码可以免费使用，API密钥或开发人员程序不需要预付费用。 由于缺乏基础设施成本，与传统架构相比，开发人员的客户购置成本仅为水平的一小部分。
 
 #### 7. SAFE Crowd Sale SAFE人群出售
 
@@ -332,7 +332,7 @@ The SAFE network [ref Network] utilises a mathematically complete, peer-to-peer 
 
 SAFE网络[ref Network]利用自治网络[参考自治]上的数学上完整的对等公钥基础设施（PKI）授权，安全的密钥值存储和基于可靠Kademlia路由[参考路由]。 该网络旨在分散管理，并有能力摆脱域名系统（DNS）。 部署在SAFE网络内的PKI解决方案以数学确定性验证用户的身份。
 
-Bitcoin [ref BitCoin] has proved the ability of crypto currencies to disrupt the status quo.  Bitcoin proposed and executed a very innovative idea, coupled with a well-considered system design based on the block-chain and proof-of-work concepts. In essence, Bitcoin is a partially-decentralised (due to the use of the block chain) digital currency on a centralised network. MaidSafe propose a token based economic system on the SAFE network. In effect, a decentralised digital currency system on decentralised network. 
+Bitcoin [ref BitCoin] has proved the ability of crypto currencies to disrupt the status quo.  Bitcoin proposed and executed a very innovative idea, coupled with a well-considered system design based on the block-chain and proof-of-work concepts. In essence, Bitcoin is a partially-decentralised (due to the use of the block chain) digital currency on a centralised network. MaidSafe propose a Token based economic system on the SAFE network. In effect, a decentralised digital currency system on decentralised network. 
 
 比特币[ref BitCoin]已经证明了加密货币破坏现状的能力。 比特币提出并执行了一个非常创新的想法，加上基于块链和工作证明概念的考虑周全的系统设计。 实质上，比特币是集中式网络上的部分分散（由于使用区块链）数字货币。 MaidSafe在SAFE网络上提出一个基于Token的经济系统。 实际上，分散式网络上的分散数字货币系统。
  
@@ -375,7 +375,7 @@ The Trusted Group feature, delivered by the SAFE network, ensures the system is 
 
 
 #### 3.	转移机制
-On the SAFE network, vaults assume various personas or roles [ref Persona], depending on the requests they receive.  For example, the DataManager persona is responsible for managing the integrity and availability of a given piece of data on the network.  A separate persona, the TransactionManager, is proposed to handle all the token-related transactions.  A TransactionManager group will be a trusted group of nodes which are closest to any given transaction identity. The TransactionManager is responsible for the logic that enables transactions to be completed.
+On the SAFE network, vaults assume various personas or roles [ref Persona], depending on the requests they receive.  For example, the DataManager persona is responsible for managing the integrity and availability of a given piece of data on the network.  A separate persona, the TransactionManager, is proposed to handle all the Token-related transactions.  A TransactionManager group will be a trusted group of nodes which are closest to any given transaction identity. The TransactionManager is responsible for the logic that enables transactions to be completed.
 
 在SAFE网络上，保管库根据他们收到的请求承担各种人物角色或角色[ref Persona]。例如，DataManager角色负责管理网络上给定数据的完整性和可用性。一个单独的角色TransactionManager被提出来处理所有与Token相关的事务。一个TransactionManager组将是一个可信任的最接近任何给定事务标识的节点组。 TransactionManager负责使事务完成的逻辑。
 
@@ -486,7 +486,7 @@ processing any updates.
 
 #### 5.	Economic System With Two Types Of Token 两种Token的经济系统
 
-P.O.R is proposed in order to facilitate the exchange of storage space on the SAFE network. However, as it doesn't have a predictable cap number, it may not be considered a genuine virtual currency. To provide a more robust form of exchange, MaidSafe proposes a token system that is totally independent of P.O.R, called safecoin. Safecoin will have a predicatable cap and will be injected into network using the storage space related mining procedure.
+P.O.R is proposed in order to facilitate the exchange of storage space on the SAFE network. However, as it doesn't have a predictable cap number, it may not be considered a genuine virtual currency. To provide a more robust form of exchange, MaidSafe proposes a Token system that is totally independent of P.O.R, called safecoin. Safecoin will have a predicatable cap and will be injected into network using the storage space related mining procedure.
 
 P.O.R是为了便于在SAFE网络上交换存储空间而提出的。但是，由于它没有可预测的上限数量，因此它可能不被视为真正的虚拟货币。为了提供更强大的交换形式，MaidSafe提出了一个完全独立于P.O.R的称为SafeCoin的Token系统。 Safecoin将具有可预测的上限，并将使用与存储空间相关的挖掘程序注入网络。
 
@@ -516,7 +516,7 @@ P.O.R.的预测 估计为：
 
 
 #### 6.	Safecoin数据结构
-Safecoin issuance will be capped at 2^32 (4.3 billion). Unlike P.O.R, which is just an integer number held in the  Maid Account, each safecoin is represented by a special token type data. The data structure of such can be illustrated as :
+Safecoin issuance will be capped at 2^32 (4.3 billion). Unlike P.O.R, which is just an integer number held in the  Maid Account, each safecoin is represented by a special Token type data. The data structure of such can be illustrated as :
 
 Safecoin的发行上限为 2^32（43亿美元）。 与P.O.R不同，P.O.R只是Maid账户中的一个整数，每个Safecoin由一个特殊的Token类型数据表示。 这样的数据结构可以表示为：
 
@@ -532,80 +532,136 @@ Safecoin的发行上限为 2^32（43亿美元）。 与P.O.R不同，P.O.R只是
 
 The name of a safecoin is 64 bytes long to allow it to be a network-addressable object. However, the name has a particular format:
 
+Safecoin的名称长度为64个字节，以允许它成为网络可寻址的对象。 但是，该名称具有特定的格式：
+
 [ 32 bits: Token ID    |   224 bits: ID padding   |   x bits (x <= 248): Subdivision bits   |   248 - x: Random   |   8 bits: Value of x ]
 
-The initial part (Token ID) inherently limits the total number of tokens available to 2^32 since each token must have a unique ID.
+The initial part (Token ID) inherently limits the total number of Tokens available to 2^32 since each Token must have a unique ID.
 
-The second part (ID padding) must be predictable (e.g. it could just be all ‘0’s, or it could be the ID concatenated 7 times).  Its purpose is to force all subdivisions of a given coin token the same trusted group of vaults to eliminate the need for network traffic when handling such subdivisions.
 
-The third part defines the subdivision name. For example, if x == 1 (regardless of whether the value of that bit is 0 or 1) then that token represents a half of the original token.
+由于每个Token必须具有唯一的ID，因此最初部分（Token ID）固有地将可用Token的总数限制为 2^32。
+
+The second part (ID padding) must be predictable (e.g. it could just be all ‘0’s, or it could be the ID concatenated 7 times).  Its purpose is to force all subdivisions of a given coin Token the same trusted group of vaults to eliminate the need for network traffic when handling such subdivisions.
+
+第二部分（ID填充）必须是可预测的（例如，它可以全部为'0'，或者可以是ID连接7次）。 其目的是强制给定币Token的所有细分成为相同的受信任的保管库组，以在处理此类细分时消除对网络流量的需求。
+
+The third part defines the subdivision name. For example, if x == 1 (regardless of whether the value of that bit is 0 or 1) then that Token represents a half of the original Token.
+
+第三部分定义了细分名称。 例如，如果x == 1（不管该位的值是0还是1），那么该标记代表原始标记的一半。
 
 The fourth part is random padding.
 
-The fifth part indicates the level of subdivision of the original token, i.e. it contains the value of x.
+第四部分是随机填充。
 
-This format allows the tokens to be split into 2<sup>248</sup> parts if required. The splitting process will only allow the token (or subdivided token) to be bisected, so e.g. quartering a token would need to be done in 2 steps. When splitting a token, only the name changes; all other parts are copied to the new subdivisions. The split results in 2 tokens, each representing a half of the original token value. This procedure is further illustrated in the following diagram.
+The fifth part indicates the level of subdivision of the original Token, i.e. it contains the value of x.
+
+第五部分表示原始标记的细分水平，即它包含x的值。
+
+This format allows the Tokens to be split into 2<sup>248</sup> parts if required. The splitting process will only allow the Token (or subdivided Token) to be bisected, so e.g. quartering a Token would need to be done in 2 steps. When splitting a Token, only the name changes; all other parts are copied to the new subdivisions. The split results in 2 Tokens, each representing a half of the original Token value. This procedure is further illustrated in the following diagram.
+
+如果需要，这种格式允许将Token分成2<sup>248</sup>个部分。 分割过程将仅允许Token（或细分Token）被平分，例如， 设置Token需要分两步完成。 分割Token时，只能更改名称; 所有其他部分被复制到新的细分。 分割会产生2个标记，每个标记代表原始标记值的一半。 下面的图表进一步说明了此过程。
 
 ![Diagram Split Safecoin](https://raw.githubusercontent.com/maidsafe/Whitepapers/master/resources/split_safecoin_diagram.png)
 
 The current_owner, together with the current version number, needs to be signed by the previous_owner, allowing a third party verification.
 
-Escrows have the right to block / enable the access to the token by voting with majority (fill the correspondent excrow field with approved owner). i.e. only the majority of escrow approved owner will be allowed to update the token data.
+current_owner与当前版本号一起需要由previous_owner签名，允许第三方验证。
+
+Escrows have the right to block / enable the access to the Token by voting with majority (fill the correspondent excrow field with approved owner). i.e. only the majority of escrow approved owner will be allowed to update the Token data.
+
+通过以大多数投票方式，托管方有权阻止/启用对Token的访问权限（将批准的所有者填入对应的区域）。 即只有大部分托管批准的拥有者才被允许更新Token数据。
 
 This special safecoin data is being distributed by the DataManager and held in PmidManager's memory (shall never be stored to PmidNode as a chunk).
 
-#### 7.	Safecoin Requests / Persona Roles
+这个特殊的safecoin数据由DataManager分发并保存在PmidManager的内存中（永远不会以块的形式存储到PmidNode中）。
 
-Safecoin data is one kind of data, so it has PUT and GET request being defined. However, unlike normal data, there is no DELETE request defined for it. The PUT request for safecoin is "no duplication allowed", i.e. if there is already a safecoin data having same name (first 32 bits), the new put request shall be rejected. This will be handled by the DataManager receiving the request.
+#### 7.	Safecoin Requests / Persona Roles    Safecoin请求 / 个人角色
 
-A new request, EXCHANGE, is defined to allow approved requester update the pay_load of the token data. The rules defined as :
+Safecoin data is one kind of data, so it has PUT and GET request being defined. However, unlike normal data, there is no DELETE request defined for it. The PUT request for safecoin is "no duplication allowed", i.e. if there is already a safecoin data having same name (first  32 bits), the new put request shall be rejected. This will be handled by the DataManager receiving the request.
+
+Safecoin数据是一种数据，因此它定义了PUT和GET请求。 但是，与普通数据不同，没有为其定义DELETE请求。 对于安全币的PUT请求是“不允许复制”，即如果已经有一个具有相同名称的安全币数据（前32位），则新放置请求将被拒绝。 这将由接收请求的DataManager处理。
+
+A new request, EXCHANGE, is defined to allow approved requester update the pay_load of the Token data. The rules defined as :
 * Only the owner that be approved by the majority of escrows and owners (previous / current owners considered as approved themselves) can update all fields.
 * Each escrow can only update their correspondent field once
 * Each time prev / curr owner field get updated, the version_number must be increased by 1 step, and all escrow fields shall be erased
 
+新的请求EXCHANGE被定义为允许已批准的请求者更新Token数据的pay_load。 规则定义为：
+* 只有经过大多数托管和业主（先前/当前所有者认为自己已批准）的业主才能更新所有字段。
+* 每次托管只能更新一次通讯记录
+* 每次 prev / curr 所有者字段被更新时，version_number必须增加1步，并且所有的托管字段都应该被擦除
+
 The above rules will be enforced by the PmidManager holding the safecoin data. As the ownership field, together with the escrow fields, are used as a 'transaction', the PmidManager effectively becomes the TransactionManager. In this instance, the safecoin data can also be considered as a receipt object as well.
 
-The safecoin data also served as "wallet" to itself, i.e. a wallet that holds one token only. A user level bookkeeper, holding the list of token one user owns, can be completed as a client only application. That list of token information can be stored in user's local machine or uploaded to the network as encrypted data.
+上述规则将由持有Safecoin数据的PmidManager执行。 由于所有权字段与托管字段一起用作“事务”，PmidManager实际上成为TransactionManager。 在这种情况下，安全币数据也可以被视为收货对象。
 
+The safecoin data also served as "wallet" to itself, i.e. a wallet that holds one Token only. A user level bookkeeper, holding the list of Token one user owns, can be completed as a client only application. That list of Token information can be stored in user's local machine or uploaded to the network as encrypted data.
 
-#### 8.	Safecoin Transaction Structure / Scenarios
+safecoin数据也作为自己的“钱包”，即仅保存一个Token的钱包。 持有一个用户拥有的Token列表的用户级别簿记员可以作为仅客户端应用程序完成。 该Token信息列表可以存储在用户的本地机器中或作为加密数据上传到网络。
+
+#### 8.	Safecoin Transaction Structure / Scenarios      Safecoin交易结构 / 情景
 The following diagram illustrates the evolve of RPC requests and safecoin data structure during a transaction process. It has the capability to support multiple escrows model (like multi-signature [ref Escrow] [ref BIP16/17] proposed for Bitcoin).
+
+下图说明了交易过程中RPC请求和安全币数据结构的演变。 它有能力支持多个托管模型（比如为比特币提出的多重签名[ref Escrow] [ref BIP16/17]）。
 
 ![Transaction Structure](https://raw.githubusercontent.com/maidsafe/Whitepapers/master/resources/transaction_structure_merged.png)
 
 The following table illustrates the evolve of user account holding safecoins info, together with the safecoin data held by PmidManager.
 
+下表说明了持有安全币信息的用户账户以及由PmidManager持有的安全币数据的演变情况。
+
 ![Transaction Scenarios](https://raw.githubusercontent.com/maidsafe/Whitepapers/master/resources/transaction_scenarios_merged.png)
 
-#### 9.	Mining Safecoin
+#### 9.	Mining Safecoin     Safecoin挖矿
 Every mining interval, the Pmid Manager group around a vault will perform the mining for that vault. The Pmid Manager will generate a Random Attempt Target (R.A.T) based on the following calculation:
+
+每个采矿间隔，保管库周围的Pmid Manager组将对该保管库执行采矿。 基于以下计算，Pmid Manager将生成一个随机尝试目标（R.A.T）：
 
 R.A.T = Sign(Hash( (merkle_tree_root + msg_id) XOR R.A.T prev ))<sub>PmidManagerGroup</sub>    ------   ④
 
 where : merkle_tree_root is generated from all the chunks stored on that vault
 
+其中：merkle_tree_root是从存储在该库上的所有块生成的
+
 msg_id is the agreed random ID among the Pmid Manager group.
+
+msg_id是Pmid Manager组中的商定随机ID。
 
 Sign()<sub>PmidManagerGroup</sub> means the PmidManager group in charge shall sign the hashed result. This makes RAT as proof of mining, allowing other vaults to verify.
 
-The R.A.T will then be sent to the Data Manager as a PUT request, claiming the ownership of that token on behalf of that vault. If DataManager has no record of a token data bearing same token_index (first 32 bits), the token data will be passed to PmidManager to be held, and the correspodent MaidManager will be notified of the success. Otherwise, the request will be muted.
+Sign()<sub>PmidManagerGroup</sub> 表示负责的PmidManager组签名散列结果。 这使RAT成为采矿证明，允许其他金库进行验证。
+
+The R.A.T will then be sent to the Data Manager as a PUT request, claiming the ownership of that Token on behalf of that vault. If DataManager has no record of a Token data bearing same Token_index (first 32 bits), the Token data will be passed to PmidManager to be held, and the correspodent MaidManager will be notified of the success. Otherwise, the request will be muted.
+
+然后，R.A.T将作为PUT请求发送到数据管理器，并代表该保管库声明该Token的所有权。 如果DataManager没有记录具有相同Token_index（前32位）的Token数据，则Token数据将传递给PmidManager以保持，并且相应的MaidManager将被通知成功。 否则，请求将被静音。
 
 The mining interval allowed for a vault is determined by its contribution to the network. The interval is calculated as follows:
+
+允许金库的采矿间隔取决于其对网络的贡献。 间隔计算如下：
   
 for each put attempts to the vault, when healthy_space is greater than group_average / 2 :
+
+当 healthy_space 大于 group_average/2 时，将每次尝试投入到Vault中：
 
 MessageID % (24 - round(log<sub>2</sub>(healthy_space / 1MB))) == 0 ? true : false  ------    ⑤
 
 where : group_average is average healthy_space among the close group the vault belongs to
 
+其中：group_average是保险库所属关闭组中的平均health_space
+
 MessageID is the message_id from the put attempt request
+
+MessageID是投入尝试请求的message_id
 
 This caps the quickest mining speed at one mining attempt per put attempt and set the slowest to be one mining attempt per 24 put attempts.
 
+这限制了在每次投入尝试中的一次采矿尝试中最快的采矿速度，并且设置最慢为每24次投入尝试一次采矿尝试。
 
 Given the collision probability against the accumulated number of attempts as shown in the following table. Where N is the total space (which is 4.3 billion in our case as the issuance of safecoin is capped at 2<sup>32</sup>).
 
-| Collision Probability | Num of Attempts |
+给定碰撞概率与累计尝试次数的关系，如下表所示。 其中N是总空间（在我们的案例中，由于发行Safecoin的限额为 2<sup>32</sup>），这个数字为43亿。
+
+| Collision Probability 碰撞概率 | Num of Attempts 尝试次数 |
 | ---------------|:-----------------:|
 | 10% | 0.105 N |
 | 20% | 0.22 N |
@@ -620,18 +676,27 @@ Given the collision probability against the accumulated number of attempts as sh
 
 A projection of coin distribution can be illustrated as :
 
+币分配的预测可以表示为：
+
 ![Projected Coin Distribution](https://raw.githubusercontent.com/maidsafe/Whitepapers/master/resources/projected_coin_distribution_over_time_log.png)
 
 
 
-#### 10.	Day 1 Injection
-To reward investors and developers involved during the early stages of this project, it is 
-proposed that 30% of all safecoins will be injected into the network on day 1. Up to 10% will be available for purchase via the crowd sale, 5% for the existing MaidSafe investors, 5% for the SAFE core development team and 10% for the general developer pool.
+#### 10.	Day 1 Injection   第1天注入
+
+To reward investors and developers involved during the early stages of this project, it is proposed that 30% of all safecoins will be injected into the network on day 1. Up to 10% will be available for purchase via the crowd sale, 5% for the existing MaidSafe investors, 5% for the SAFE core development team and 10% for the general 
+developer pool.
+
+为了奖励这个项目早期阶段涉及的投资者和开发商，建议在第1天将所有安全币的30％注入网络。通过大众销售可以购买10％，5％用于购买 现有的MaidSafe投资者，SAFE核心开发团队5％，普通开发人员池10％。
 
 This 10% safecoin will require a storage space of 1TB, given the average SDV size is estimated to be 0.5kB. Vaults holding these SDV will gain P.O.R, which means the same amount of P.O.R is also injected into network. This ensures there is certain amount of P.O.R available across the network for those client only users to startup with. This may be P.O.R given as gift or purchased from other users. As pointed out in the (table POR projection), sufficient P.O.R will be generated via user behaviour during the early stages, it is expected this initial injection will be enough to kick start the provision of storage to the public. 
 
-#### 11.	Summary
-To conclude, MaidSafe proposed the SAFE network, an economic system that contains two types of token and relies on a trusted group. The transfer mechanism is advantageous in many respects and has the functionality to prevent double-spending, while enabling the verification of transactions immediately. Transaction Managers handling SDV data type are included into the SAFE network to manage tokens and transactions. Proof of Resource (P.O.R) is introduced to smooth the exchange of storage space, while safecoin is introduced to incentivise stakeholders throughout the network. The total cap of safecoin is set to be 4.3 billion. With the proposed mining procedure (and assumptions) it is estimated that half the total volume will issued during the first 5 years, with 95% issued after 10 years. End users will mine coins based on their ability to provide computing resources to the network and, in addition to the other benefits offered by SAFE, this will be their main incentive for contributing storage space. The tech stack of the token system is illustrated as <diagram Tech Stack>.
+考虑到平均SDV大小估计为0.5kB，这个10％Safecoin将需要1TB的存储空间。 持有这些SDV的保管库将获得P.O.R，这意味着同样数量的P.O.R也被注入网络。 这可以确保整个网络中都有一定数量的P.O.R可用于仅限客户端的用户启动。 这可能是P.O.R作为礼物赠送或从其他用户购买。 正如（表POR预测）所指出的那样，在早期阶段将通过用户行为产生足够的P.O.R，预计初始注入足以启动向公众提供存储。
+
+#### 11.	Summary 总结
+To conclude, MaidSafe proposed the SAFE network, an economic system that contains two types of Token and relies on a trusted group. The transfer mechanism is advantageous in many respects and has the functionality to prevent double-spending, while enabling the verification of transactions immediately. Transaction Managers handling SDV data type are included into the SAFE network to manage Tokens and transactions. Proof of Resource (P.O.R) is introduced to smooth the exchange of storage space, while safecoin is introduced to incentivise stakeholders throughout the network. The total cap of safecoin is set to be 4.3 billion. With the proposed mining procedure (and assumptions) it is estimated that half the total volume will issued during the first 5 years, with 95% issued after 10 years. End users will mine coins based on their ability to provide computing resources to the network and, in addition to the other benefits offered by SAFE, this will be their main incentive for contributing storage space. The tech stack of the Token system is illustrated as <diagram Tech Stack>.
+
+总之，MaidSafe提出了SAFE网络，SAFE网络是一个包含两种Token并依赖于可信组的经济系统。该转移机制在许多方面都具有优势，并具有防止双重支出的功能，同时能够立即验证交易。处理SDV数据类型的事务管理器包含在SAFE网络中以管理Token和事务。引入资源证明（P.O.R）以平滑存储空间的交换，同时引入Safecoin以激励整个网络中的利益相关者。 Safecoin的总上限为43亿。根据拟议的采矿程序（和假设），估计在前5年内将发放总量的一半，在10年后发布95％。终端用户将根据他们为网络提供计算资源的能力来挖掘币，除了SAFE提供的其他好处外，这将成为他们贡献存储空间的主要动机。Token系统的技术堆栈被示为<diagram Tech Stack>。
 
 ![Diagram Tech Stack](https://raw.github.com/maidsafe/Whitepapers/master/resources/tech_stack.png)
 
@@ -652,5 +717,3 @@ To conclude, MaidSafe proposed the SAFE network, an economic system that contain
 [ref Escrow] The Escrow service for Bitcoin : http://btcrow.com/
 
 [ref BIP 16/17] BIP 16/17 in layman's term : https://bitcointalk.org/index.php?topic=61125.
-
-
