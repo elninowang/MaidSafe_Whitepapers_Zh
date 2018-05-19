@@ -10,8 +10,6 @@ Existing Internet infrastructure is increasingly unable to cope with the demands
  
 To overcome these challenges a fresh approach is required, a solution that removes these inordinately expensive central points of failure, data leakage and bottlenecks. By developing a fully decentralised replacement for all Internet based services, Secure Access For Everyone (SAFE) will ensure the decentralised Internet is a reality, enabling:
 
-为了克服这些挑战，需要采取全新的方法，这种解决方案可以消除这些非常昂贵的中心故障点，数据泄漏和瓶颈。 通过为所有基于互联网的服务开发完全分散的替代品，人人安全访问的（SAFE）将确保分散式互联网成为现实，从而实现：
-
 - Autonomous handling of structured and unstructured data types
 - Private and secure communications
 - Data shared at the filesystem level worldwide, no need for http, smtp, ftp etc.
@@ -22,7 +20,9 @@ To overcome these challenges a fresh approach is required, a solution that remov
 - No requirement for forward planning using infrastructure that automatically configures around its users in real-time (no data centres)
 - A highly usable and free API that enables a plethora of developers to create the next wave of secure applications not currently possible with today's centralised architecture
 - An underlying crypto currency called safecoin that will incentivise all actors in this ecosystem
->
+
+为了克服这些挑战，需要采取全新的方法，这种解决方案可以消除这些非常昂贵的中心故障点，数据泄漏和瓶颈。 通过为所有基于互联网的服务开发完全分散的替代品，人人安全访问的（SAFE）将确保分散式互联网成为现实，从而实现：
+
 - 自主处理结构化和非结构化数据类型
 - 私密和安全的通信
 - 在全球文件系统级共享数据，不需要http，smtp，ftp等。
@@ -140,7 +140,7 @@ If people were to try and game the system by providing farmers to store data and
 
 Unlike many currencies, the distribution of safecoin is backed by information. This information represents the world’s data and grows exponentially. Unlike gold, which only increases at circa 1.5% per annum, the quantity of safecoin will initially burgeon. This is akin to the California gold rush, where the quantity of gold grew quickly with enthusiastic miners. In safecoin this is mirrored by the network building to the stage where it is protecting all of the world’s data. During that time the mining frequency will be exponentially decreasing.
 
-与许多货币不同，Safecoin的分配由信息支持。这些信息代表了世界的数据并呈指数增长。与每年仅增长1.5％的黄金不同，SafeCoin的数量最初会逐渐增加。这与加利福尼亚淘金热类似，黄金的数量与热心的矿工迅速增长。在SafeCoin中，网络建设将其反映到保护全球所有数据的阶段。在此期间，采矿频率将呈指数级下降。
+与许多币不同，Safecoin的分配由信息支持。这些信息代表了世界的数据并呈指数增长。与每年仅增长1.5％的黄金不同，SafeCoin的数量最初会逐渐增加。这与加利福尼亚淘金热类似，黄金的数量与热心的矿工迅速增长。在SafeCoin中，网络建设将其反映到保护全球所有数据的阶段。在此期间，采矿频率将呈指数级下降。
 
 When all of the world’s data is secured, mining will naturally slow to a pace that just keeps up with the fungibility of the whole system and the increased resources under it's protection. This will be possible as people trade safecoin for network resources. These resources are initially data, but will likely grow to be bandwidth (to allow satellite and mesh networks) and processing power (for decentralised mass calculation work) amongst others. 
 
@@ -231,9 +231,6 @@ Third party developers will also be incentivised outside of the Token scheme.  C
 #### 7. SAFE Crowd Sale SAFE人群出售
 
 The crowd sale will be operated as follows:
-
-人群出售将按以下方式进行：
-
 * A fixed number of MaidSafeCoin will be issued during the crowd sale
 * The sale will last until all coins have been purchased (circa $8million) or 30 days has passed, whatever happens first
 * Within that period, public funds in the form of bitcoin and mastercoin can be sent to exodus bitcoin address via www.BuySafeCoins.com
@@ -247,7 +244,8 @@ The crowd sale will be operated as follows:
 * Each participants safecoin wallet will be credited as the full network is launched and they create their SAFE network accounts 
 * In the event that not all coins are sold, the remaining coins will be burned
 * All details are available at www.safecoin.io
->
+
+人群出售将按以下方式进行：
 * 人群出售期间将发放固定数量的MaidSafeCoin
 * 出售将持续到所有币已被购买（大约800万美元）或30天过去，无论先发生什么
 * 在此期间，比特币和mastercoin形式的公共资金可以通过www.BuySafeCoins.com发送到exodus比特币地址
@@ -290,15 +288,13 @@ In this manner, **MaidSafe will ‘eat at the same table’ as all other develop
 #### 8. MaidSafe基金会  
 
 The MaidSafe Foundation will initially:
-
-MaidSafe基金会最初将：
-
 * Hold and distribute safecoin for developer pools
 * Manage issuance of MaidSafeCoin to funders and existing investors
 * Hold all patents and use safecoin to pay for the upkeep and further patents for all projects (until this sphere cannot be litigated against, the MaidSafe Foundation will act as the holder of defensive patents, of which there is already a considerable worldwide portfolio, to protect the decentralised Internet).
 * House the MaidSafe team in an HQ and provide funding for independent development pods, worldwide 
 * Provide finances for the core team and development pods for a period of at least three years (we have already started discussions with a person in San Francisco to begin this process immediately on funding, we hope to have at least six such pods, worldwide in year one)
 
+MaidSafe基金会最初将：
 * 为开发人员池保留并分发Safecoin
 * 管理MaidSafeCoin向资助者和现有投资者的发行
 * 持有所有专利并使用Safecoin支付所有项目的保养和进一步专利（在这个领域无法起诉的情况下，MaidSafe基金会将充当防御性专利的持有者，其中已经有相当多的全球投资组合） 保护分散的互联网）。
@@ -342,15 +338,13 @@ With the SAFE network, it can be assumed that the majority of a close group of n
 通过SAFE网络，可以假设大多数紧密的节点组是可信的。 虽然并非不可能在围绕特定目标的关闭组中生成大多数恶意节点，但应将其视为计算上不可行的。
 
 On the SAFE network, the following rules ensure a trusted group:
-
-在SAFE网络上，以下规则确保可信组：
-
 * It is hard to have a vault with a particular address (the address of a new vault will be defined by the network using the hash of the vault’s credentials). In addition, each time a vault is switched off and then rejoins the network, it will be assigned a new address. Furthermore, the node will not be considered a full functional vault until the verification period is complete.
 * When a request is emitted from a group, all group member’s signatures will be attached. On the receiver side, a routing level find closest verification will be carried out to verify the senders are really closest nodes to the target. In addition, the public keys for the nodes will be downloaded from the network to validate signatures.
 * The close group is not formed in a deterministic way (i.e. based on XOR distance as defined by Kademlia only). The close group of a target will only be formed when the target goes to the network. Unless the target is pre-known, it cannot tell whether two nodes are close.
 * For sensitive data like currency or transaction, there is an additional level of protection : chained group. Chained group means the target is not only handled by the group around it, but also is managed by the other group chained to the target. The chain is established in a determistic way once the target is known, which allows verfication by public.
 * The exchange of a vault between different users is not allowed. It is possible for a vault not to be linked to an account (unowned) and then linked to an account later (owned). However, once linked that vault cannot be detached.
 
+在SAFE网络上，以下规则确保可信组：
 * 具有特定地址的保险库很难（新保管库的地址将由网络使用保管库凭证的散列来定义）。另外，每次关闭电子仓库并重新加入网络时，都会分配一个新地址。此外，在验证期结束之前，节点将不被视为全功能库。
 * 当一个组发出请求时，将附加所有组成员的签名。在接收端，路由级别发现最接近的验证将被执行以验证发送者是否与目标真正最接近的节点。另外，节点的公钥将从网络下载以验证签名。
 * 关闭组不是以确定性方式形成的（即仅基于Kademlia定义的异或距离）。只有当目标进入网络时才会形成目标的关闭组。除非目标是预先知道的，否则它不能分辨两个节点是否接近。
@@ -436,24 +430,31 @@ The procedure of a transfer (user_A transfers credit to user_B) can be illustrat
 
 #### 4.	资源证明
 On the SAFE network, a user contributes to the network by running a vault, which will handle requests and store data for others. The following parameters are used to measure a vault and a user account:
+* stored_space: the total size of chunks that have been stored to that vault by the network
+* lost_data: as data is stored on a node it may switch off or be otherwise unavailable, we consider this to be lost data. This is a critically important measure and in no way means the network has actually lost data as replicant copies are always available. This is a common practice for a node on the network.
+* healthy_space (h.s.) :  h.s. = stored_space - lost_data    ------   ①
+* available_space: the storage space a vault claimed (via the user) it can contribute to the network
+* data_cost: data_cost will be calculated as the data_size that user stored to network. It will be refunded once user deletes the stored data. The client application has a local level deduplication, which will prevent a user from being charged twice when storing the same data again to the network.
+* used_space: total data_cost of all the chunks that user put to network
 
 在SAFE网络上，用户通过运行保管库来为网络作出贡献，该保管库将处理请求并为其他人存储数据。 以下参数用于衡量保险库和用户帐户：
-
-* stored_space: the total size of chunks that have been stored to that vault by the network
-
-* lost_data: as data is stored on a node it may switch off or be otherwise unavailable, we consider this to be lost data. This is a critically important measure and in no way means the network has actually lost data as replicant copies are always available. This is a common practice for a node on the network.
-
-* healthy_space (h.s.) :  h.s. = stored_space - lost_data    ------   ①
-
-* available_space: the storage space a vault claimed (via the user) it can contribute to the network
-
-* data_cost: data_cost will be calculated as the data_size that user stored to network. It will be refunded once user deletes the stored data. The client application has a local level deduplication, which will prevent a user from being charged twice when storing the same data again to the network.
-
-* used_space: total data_cost of all the chunks that user put to network
+* stored_space：由网络存储到该文件库的块的总大小
+* lost_data：由于数据存储在节点上可能会关闭或无法使用，因此我们认为这是数据丢失。 这是一个非常重要的措施，决不意味着网络实际上已经丢失数据，因为副本副本始终可用。 这是网络上节点的常见做法。
+* healthy_space (h.s.) : h.s. = stored_space - lost_data ------①
+* available_space：Vault声称的存储空间（通过用户）可以为网络做出贡献
+* data_cost：data_cost将被计算为用户存储到网络的data_size。 一旦用户删除存储的数据，它将被退还。 客户端应用程序具有本地级重复数据删除功能，这将防止用户在将相同数据再次存储到网络时收取两次费用。
+* used_space：用户放入网络的所有块的全部data_cost
 
 The Proof Of Resource (P.O.R) is derived from healthy_space (which is a kind of QoS measurement)
 
 * P.O.R will be updated when healthy_space updated in bi-direction
+
+Δ P.O.R =  Δ healthy_space       ------   ②
+
+资源证明（P.O.R）源自healthy_space（这是一种QoS度量）
+
+* 健康空间在双向更新时，P.O.R将被更新
+
 
 Δ P.O.R =  Δ healthy_space       ------   ②
 
@@ -462,18 +463,30 @@ This ensures P.O.R becomes a huge negative when the user transfers out P.O.R and
 * P.O.R will be checked when a user tries to PUT data.
 (used_space + data_cost ) < P.O.R      ------   ③
 
+这确保P.O.R在用户转出P.O.R并关闭他们的保险库时变成巨大的负面影响
+
+* P.O.R将在用户尝试PUT数据时进行检查。
+(used_space + data_cost ) < P.O.R      ------   ③
+
 A user’s initial allowance will be granted by setting used_space to negative claimed available_space. If any cheating is detected, the used_space will be changed to reflect that.
+
+通过将used_space设置为否定声明的available_space，用户的初始津贴将被授予。 如果检测到任何作弊行为，used_space将被改变以反映该作弊行为。
 
 This will also cover for situations when a user’s P.O.R drops by allowing the user to mutate his free allowance data.
 
 * P.O.R is transferable among users
-
 * P.O.R shall be an int in a unit directly derived from size unit KB (MB ...)
-
 * The Maid Account will be the wallet of the P.O.R, and the Maid Manager group will be responsible for 
 processing any updates.
-
 * P.O.R shall be considered as a standard unit being recognized by all nodes across the SAFE network.
+
+这也将涵盖当用户的P.O.R通过允许用户改变他的免费补贴数据而下降的情况。
+
+* P.O.R可以在用户之间转移
+* P.O.R应该是一个直接从大小单位KB（MB ...）派生的单位的整数
+* Maid账户将成为P.O.R的钱包，由Maid经理组负责
+处理任何更新。
+* P.O.R应被视为SAFE网络中所有节点都认可的标准单位。
 
 | User A |   | | User B |  |  | 
 | ---------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
